@@ -1,0 +1,8 @@
+{
+  "name": "border_animation",
+  "version": "1.0.0",
+  "description": "Project for border animation",
+  "main": "index.js",
+  "author": "ektl",
+  "license": "MIT"
+}
